@@ -1,0 +1,8 @@
+venv/*
+*.vscode
+*.swo
+*.swp
+__pycache__
+out/*
+models/*
+tmp/*
