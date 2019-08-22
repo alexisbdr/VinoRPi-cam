@@ -4,5 +4,4 @@ venv/*
 *.swp
 __pycache__
 out/*
-models/*
 tmp/*
